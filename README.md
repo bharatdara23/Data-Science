@@ -1,2 +1,1 @@
-# GitHubAssignment
-Assignment for CampusX
+This repository is to show case all the different aspects of data science like exploratory data analysis (EDA), feature engineering, model implementation, model tuning, parameter tuning, feature selection.  
